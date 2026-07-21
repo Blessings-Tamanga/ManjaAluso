@@ -405,6 +405,10 @@ html[data-theme="light"] .hero::before {
     color: white;
 }
 
+.hero-buttons a{
+    color: white;
+}
+
 @media (max-width: 600px) {
     .hero {
         background-attachment: scroll;
